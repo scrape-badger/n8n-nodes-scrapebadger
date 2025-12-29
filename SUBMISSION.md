@@ -53,12 +53,10 @@ npm info n8n-nodes-scrapebadger
 3. Add topics: `n8n`, `n8n-community-node`, `twitter`, `scraping`
 4. Enable Issues for support requests
 
-## Step 4: Submit to n8n Creator Portal
+## Step 4: Submit to n8n for Verification
 
-1. Go to [n8n Creator Portal](https://portal.n8n.io/)
-2. Sign in with your n8n account
-3. Click "Submit Node"
-4. Fill in the submission form:
+1. Go to the [n8n Node Submission Form](https://internal.users.n8n.cloud/form/f0ff9304-f34a-420e-99da-6103a2f8ac5b)
+2. Fill in the submission form:
    - **npm Package Name**: `n8n-nodes-scrapebadger`
    - **GitHub Repository**: `https://github.com/scrape-badger/n8n-nodes-scrapebadger`
    - **Category**: Data & Storage
