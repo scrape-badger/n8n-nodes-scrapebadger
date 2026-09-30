@@ -38,7 +38,7 @@ npm install n8n-nodes-scrapebadger
 
 To use this node, you need a ScrapeBadger API key:
 
-1. Sign up at [scrapebadger.com](https://scrapebadger.com)
+1. Sign up at [scrapebadger.com](https://scrapebadger.com/auth/signup?utm_source=n8n&utm_medium=referral)
 2. Navigate to your dashboard and create an API key
 3. In n8n, go to **Credentials > Add Credential > ScrapeBadger API**
 4. Enter your API key
@@ -158,7 +158,7 @@ ScrapeBadger uses a credit-based system. Each API call consumes credits based on
 ## Resources
 
 - [ScrapeBadger Documentation](https://docs.scrapebadger.com)
-- [ScrapeBadger Dashboard](https://scrapebadger.com/dashboard)
+- [ScrapeBadger Dashboard](https://scrapebadger.com/dashboard?utm_source=n8n&utm_medium=referral)
 - [n8n Community](https://community.n8n.io/)
 
 ## License
